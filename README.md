@@ -85,11 +85,11 @@ from tiktok_uploader.auth import AuthBackend
 
 videos = [
     {
-        'video': 'video0.mp4',
+        'path': 'video0.mp4',
         'description': 'Video 1 is about ...'
     },
     {
-        'video': 'video1.mp4',
+        'path': 'video1.mp4',
         'description': 'Video 2 is about ...'
     }
 ]
